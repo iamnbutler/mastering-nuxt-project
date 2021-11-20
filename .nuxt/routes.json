@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "/Users/natebutler/Code/nuxt-masterclass/pages/home/_id.vue",
+    "chunkName": "pages/home/_id",
+    "_name": "_141f9ac1"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/natebutler/Code/nuxt-masterclass/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_044e03aa"
+  }
+]
